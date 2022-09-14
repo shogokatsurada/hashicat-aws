@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. CTC Demo.
+  Welcome to ${PREFIX}'s app. CTC Demo. 2022 9/14 17:09.
   <!-- END -->
 
   </div>
